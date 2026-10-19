@@ -224,6 +224,32 @@ DIVIDE(
 - Interactive Dashboard Development
 - Data Storytelling and Visualization
 
+  ## Dashboard Preview
+
+### 1. Landing Page
+![Landing Page](dashboard-screenshots/01-Landing-Page.png)
+
+### 2. Landing Page 2
+![Landing Page 2](dashboard-screenshots/02-Landing-Page-2.png)
+
+### 3. Executive Overview
+![Executive Overview](dashboard-screenshots/03-Executive-Overview.png)
+
+### 4. Store Performance
+![Store Performance](dashboard-screenshots/04-Store-Performance.png)
+
+### 5. Category & Product Performance
+![Category and Product Performance](dashboard-screenshots/05-Category-Product-Performance.png)
+
+### 6. Customer & Channel Insights
+![Customer and Channel Insights](dashboard-screenshots/06-Customer-Channel-Insights.png)
+
+### 7. Promotion Effectiveness
+![Promotion Effectiveness](dashboard-screenshots/07-Promotion-Effectiveness.png)
+
+### 8. Inventory Risk & Waste
+![Inventory Risk and Waste](dashboard-screenshots/08-Inventory-Risk-Waste.png)
+
 ## 👩‍💻 About the Author
 
 **Zarina Sheikh**
